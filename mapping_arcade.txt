@@ -1,0 +1,14 @@
+LIONCAST ARCADE
+
+Y = 0
+B = 1
+A = 2
+X = 3
+L1 = 4
+R1 = 5
+L2 = 6
+R2 = 7
+UP : X = 0.000 Y = -1.000
+DOWN : X = 0.000 Y = 1.000
+LEFT : X = 1.000 Y = 0.000
+RIGHT : X = -1.000 Y = 0.000
